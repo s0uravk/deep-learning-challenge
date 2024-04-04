@@ -1,1 +1,1 @@
-# deep-learning-challenge
+# deep-learning-challenge : Alpha Soup Funding Prediction
